@@ -1,4 +1,4 @@
-# An Twitter Clone Created with Reactjs, Typescript and Tailwind CSS
+# An Chirpfy Created with Reactjs, Typescript and Tailwind CSS
 
 ## About This Project
 
